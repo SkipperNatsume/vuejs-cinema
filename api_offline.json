@@ -318,5 +318,164 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
+  },
+  {
+    "Title": "Tanaka-kun Is Always Listless",
+    "Year": "2016?",
+    "Rated": "N/A",
+    "Released": "09 Apr 2016",
+    "Runtime": "N/A",
+    "Genre": "Animation, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Kensh? Ono, Yoshimasa Hosoya, Kotori Koiwai, Natsumi Takamori",
+    "Plot": "This unconventional, surrealist comedy follows an exhausted high school boy who, despite multiple attempts from his friends, still manages to spectacularly... sleep. Much to the chagrin of ...",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjNlYTRkM2MtMWM4OC00MDdkLThiMTYtMGE4ZDM3NzUxMzMxXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.7",
+    "imdbVotes": "209",
+    "imdbID": "tt5531604",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  },
+  {
+    "Title": "Angel Beats!",
+    "Year": "2010",
+    "Rated": "TV-14",
+    "Released": "02 Apr 2010",
+    "Runtime": "25 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Hiroshi Kamiya, Harumi Sakurai, Kana Hanazawa, Ryohei Kimura",
+    "Plot": "Rebellious teens fight in armed combat against one dispassionate girl's supernatural powers in an afterlife high school.",
+    "Language": "Japanese, English",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "7,511",
+    "imdbID": "tt1639109",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  },
+  {
+    "Title": "Persona 3 the Movie: #4 Winter of Rebirth",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "23 Jan 2016",
+    "Runtime": "105 min",
+    "Genre": "Animation, Action, Fantasy",
+    "Director": "Tomohisa Taguchi",
+    "Writer": "Jun Kumagai",
+    "Actors": "Akira Ishida, Hikaru Midorikawa, Kazuya Nakai, Mamiko Noto",
+    "Plot": "The season changes to winter. Makoto makes a decision in order to greet the spring that is waiting beyond.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTI0NTExMWMtZWY2Mi00NDY1LWIyYTgtYzA4ZGFhMzRiZGY1XkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "90",
+    "imdbID": "tt5463052",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "09 Jul 2003",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Gore Verbinski",
+    "Writer": "Ted Elliott (screen story), Terry Rossio (screen story), Stuart Beattie (screen story), Jay Wolpert (screen story), Ted Elliott (screenplay), Terry Rossio (screenplay)",
+    "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+    "Plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 36 wins & 96 nominations.",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "8.0",
+    "imdbVotes": "890,485",
+    "imdbID": "tt0325980",
+    "Type": "movie",
+    "DVD": "02 Dec 2003",
+    "BoxOffice": "$305,343,252",
+    "Production": "Buena Vista Pictures",
+    "Website": "http://disney.go.com/disneyvideos/liveaction/pirates/main_site/main.html",
+    "Response": "True"
+  },
+  {
+    "Title": "Assassination Classroom",
+    "Year": "2015?2016",
+    "Rated": "TV-14",
+    "Released": "10 Jan 2015",
+    "Runtime": "23 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Jun Fukuyama, Mai Fuchigami, Lindsay Seidel, Aya Suzaki",
+    "Plot": "A powerful creature claims that within a year, Earth will be destroyed by him, but he offers mankind a chance by becoming a homeroom teacher where he teaches his students about how to kill him. An assassination classroom begins.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "2 nominations.",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "2,368",
+    "imdbID": "tt3837246",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True"
   }
 ]

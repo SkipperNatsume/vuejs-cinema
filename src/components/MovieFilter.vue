@@ -3,6 +3,7 @@
         <h2>Filter Result</h2>
         <div class="filter-group">
             <check-filter v-for="genre in genres" v-bind:title="genre" v-on:check-filter="checkFilter"></check-filter>
+            <!--check-filter is emitted from the lower level component-->
         </div>
     </div>
 </template>

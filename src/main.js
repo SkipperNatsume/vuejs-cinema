@@ -12,7 +12,8 @@ new Vue({
     el: '#app',
     data: {
         genre: [],
-        time:[]
+        time: [],
+        movies:[]
     },
     methods: {
         checkFilter(category, title, checked) {
@@ -26,9 +27,11 @@ new Vue({
     },
     components: {
         MovieList, 
-        MovieFilter 
+        MovieFilter
     },
     created() {
-
+        this.$http.get('/api').then(response => {
+            this.movies = response.data;
+        });
     }
 });
