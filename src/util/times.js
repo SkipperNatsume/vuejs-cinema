@@ -1,4 +1,4 @@
 export default Object.freeze({
-  BEFORE_6PM: 'Before 6pm',
-  AFTER_6PM: 'After 6pm'
+  BEFORE_8PM: 'Before 8pm',
+  AFTER_8PM: 'After 8pm'
 });

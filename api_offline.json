@@ -40,43 +40,32 @@
     "Response": "True"
   },
   {
-    "Title": "Sita Sings the Blues",
-    "Year": "2008",
-    "Rated": "G",
-    "Released": "12 Aug 2009",
-    "Runtime": "82 min",
-    "Genre": "Animation, Comedy, Fantasy",
-    "Director": "Nina Paley",
-    "Writer": "Nina Paley, Valmiki (book)",
-    "Actors": "Annette Hanshaw, Aseem Chhabra, Bhavana Nagulapally, Manish Acharya",
-    "Plot": "An animated version of the epic Indian tale of Ramayana set to the 1920s jazz vocals of Annette Hanshaw.",
-    "Language": "English",
-    "Country": "USA",
-    "Awards": "7 wins & 3 nominations.",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYwNDYwNF5BMl5BanBnXkFtZTgwMDMwNDg5MTE@._V1_SX300.jpg",
+    "Title": "Angel Beats!",
+    "Year": "2010",
+    "Rated": "TV-14",
+    "Released": "02 Apr 2010",
+    "Runtime": "25 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Hiroshi Kamiya, Harumi Sakurai, Kana Hanazawa, Ryohei Kimura",
+    "Plot": "Rebellious teens fight in armed combat against one dispassionate girl's supernatural powers in an afterlife high school.",
+    "Language": "Japanese, English",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "100%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "93/100"
+        "Value": "7.9/10"
       }
     ],
-    "Metascore": "93",
-    "imdbRating": "7.7",
-    "imdbVotes": "3,619",
-    "imdbID": "tt1172203",
-    "Type": "movie",
-    "DVD": "28 Jul 2009",
-    "BoxOffice": "N/A",
-    "Production": "Shadow Distribution",
-    "Website": "http://www.sitasingstheblues.com/",
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "7,511",
+    "imdbID": "tt1639109",
+    "Type": "series",
+    "totalSeasons": "1",
     "Response": "True"
   },
   {
@@ -112,70 +101,59 @@
     "Response": "True"
   },
   {
-    "Title": "The Yes Men Fix the World",
-    "Year": "2009",
-    "Rated": "G",
-    "Released": "07 Aug 2009",
-    "Runtime": "87 min",
-    "Genre": "Documentary, Comedy",
-    "Director": "Andy Bichlbaum, Mike Bonanno, Kurt Engfehr",
-    "Writer": "Andy Bichlbaum (idea), Mike Bonanno (idea), Andy Bichlbaum (screenplay), Mike Bonanno (screenplay)",
-    "Actors": "Reggie Watts, Mike Bonanno, Andy Bichlbaum, Richard Ebeling",
-    "Plot": "Troublemaking duo Andy Bichlbaum and Mike Bonanno, posing as their industrious alter-egos, expose the people profiting from Hurricane Katrina, the faces behind the environmental disaster in Bhopal, and other shocking events.",
-    "Language": "English",
-    "Country": "France, UK, USA",
-    "Awards": "2 wins & 2 nominations.",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MzM2MjU0N15BMl5BanBnXkFtZTcwMDIyMDcxMw@@._V1_SX300.jpg",
+    "Title": "Assassination Classroom",
+    "Year": "2015?2016",
+    "Rated": "TV-14",
+    "Released": "10 Jan 2015",
+    "Runtime": "23 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Jun Fukuyama, Mai Fuchigami, Lindsay Seidel, Aya Suzaki",
+    "Plot": "A powerful creature claims that within a year, Earth will be destroyed by him, but he offers mankind a chance by becoming a homeroom teacher where he teaches his students about how to kill him. An assassination classroom begins.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "2 nominations.",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.6/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "77%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "71/100"
-      }
-    ],
-    "Metascore": "71",
-    "imdbRating": "7.6",
-    "imdbVotes": "4,701",
-    "imdbID": "tt1352852",
-    "Type": "movie",
-    "DVD": "01 Apr 2010",
-    "BoxOffice": "N/A",
-    "Production": "Cinetic Media",
-    "Website": "http://www.theyesmen.org/movies/theyesmenfixtheworld",
-    "Response": "True"
-  },
-  {
-    "Title": "Chiaroscuro, Baby",
-    "Year": "2009",
-    "Rated": "R",
-    "Released": "04 Nov 2009",
-    "Runtime": "127 min",
-    "Genre": "Drama",
-    "Director": "Anthony Kilburn",
-    "Writer": "Anthony Kilburn",
-    "Actors": "Christopher Bolla, Christianna White, Milan Alley, Matt Shuman",
-    "Plot": "An aspiring painter compromises his ambition for his seductive girlfriend, only to be torn when his empowering, new muse reignites his passion.",
-    "Language": "English",
-    "Country": "USA",
-    "Awards": "N/A",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMzUyNjc3NTg0NV5BMl5BanBnXkFtZTcwMTQ1OTg4Mg@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.7/10"
+        "Value": "8.0/10"
       }
     ],
     "Metascore": "N/A",
-    "imdbRating": "5.7",
-    "imdbVotes": "30",
-    "imdbID": "tt1379199",
+    "imdbRating": "8.0",
+    "imdbVotes": "2,368",
+    "imdbID": "tt3837246",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True"
+  },
+  {
+    "Title": "Persona 3 the Movie: #4 Winter of Rebirth",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "23 Jan 2016",
+    "Runtime": "105 min",
+    "Genre": "Animation, Action, Fantasy",
+    "Director": "Tomohisa Taguchi",
+    "Writer": "Jun Kumagai",
+    "Actors": "Akira Ishida, Hikaru Midorikawa, Kazuya Nakai, Mamiko Noto",
+    "Plot": "The season changes to winter. Makoto makes a decision in order to greet the spring that is waiting beyond.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTI0NTExMWMtZWY2Mi00NDY1LWIyYTgtYzA4ZGFhMzRiZGY1XkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "90",
+    "imdbID": "tt5463052",
     "Type": "movie",
     "DVD": "N/A",
     "BoxOffice": "N/A",
@@ -256,160 +234,6 @@
     "Response": "True"
   },
   {
-    "Title": "Insignificant Celluloid",
-    "Year": "2011",
-    "Rated": "PG-13",
-    "Released": "N/A",
-    "Runtime": "78 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Blake Fitzpatrick",
-    "Writer": "Blake Fitzpatrick",
-    "Actors": "Seth Correa, Lahcen Anajjar, Erik J. Pratt, Steve Williams",
-    "Plot": "It's about people feeling ways about things.",
-    "Language": "English",
-    "Country": "USA",
-    "Awards": "3 wins & 2 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BNjk0OTYzNzU3OF5BMl5BanBnXkFtZTcwNTAwOTA3NA@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.8/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "6.8",
-    "imdbVotes": "41",
-    "imdbID": "tt1783305",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Freddy's Return: A Nightmare Reborn",
-    "Year": "2009",
-    "Rated": "PG-13",
-    "Released": "13 Nov 2009",
-    "Runtime": "120 min",
-    "Genre": "Horror",
-    "Director": "Jason Korsiak",
-    "Writer": "Wes Craven (based on characters created by), Jason Korsiak",
-    "Actors": "Ronin Booker, Zakary Booker, David Buczynski, Rodney Covington",
-    "Plot": "As a child, Kevin was kidnapped by Freddy Krueger before Freddy was killed by a mob of angry parents. Although he was rescued by the detective that arrested Krueger, he was left scarred ...",
-    "Language": "English",
-    "Country": "USA",
-    "Awards": "N/A",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMWRmYTc0NDYtYTZkYS00YzBhLTkyMmUtZjg3MTcwMjUxZTljXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.9/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "5.9",
-    "imdbVotes": "10",
-    "imdbID": "tt4479976",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Tanaka-kun Is Always Listless",
-    "Year": "2016?",
-    "Rated": "N/A",
-    "Released": "09 Apr 2016",
-    "Runtime": "N/A",
-    "Genre": "Animation, Comedy",
-    "Director": "N/A",
-    "Writer": "N/A",
-    "Actors": "Kensh? Ono, Yoshimasa Hosoya, Kotori Koiwai, Natsumi Takamori",
-    "Plot": "This unconventional, surrealist comedy follows an exhausted high school boy who, despite multiple attempts from his friends, still manages to spectacularly... sleep. Much to the chagrin of ...",
-    "Language": "Japanese",
-    "Country": "Japan",
-    "Awards": "N/A",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjNlYTRkM2MtMWM4OC00MDdkLThiMTYtMGE4ZDM3NzUxMzMxXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "7.7",
-    "imdbVotes": "209",
-    "imdbID": "tt5531604",
-    "Type": "series",
-    "totalSeasons": "1",
-    "Response": "True"
-  },
-  {
-    "Title": "Angel Beats!",
-    "Year": "2010",
-    "Rated": "TV-14",
-    "Released": "02 Apr 2010",
-    "Runtime": "25 min",
-    "Genre": "Animation, Action, Comedy",
-    "Director": "N/A",
-    "Writer": "N/A",
-    "Actors": "Hiroshi Kamiya, Harumi Sakurai, Kana Hanazawa, Ryohei Kimura",
-    "Plot": "Rebellious teens fight in armed combat against one dispassionate girl's supernatural powers in an afterlife high school.",
-    "Language": "Japanese, English",
-    "Country": "Japan",
-    "Awards": "N/A",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.9/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "7.9",
-    "imdbVotes": "7,511",
-    "imdbID": "tt1639109",
-    "Type": "series",
-    "totalSeasons": "1",
-    "Response": "True"
-  },
-  {
-    "Title": "Persona 3 the Movie: #4 Winter of Rebirth",
-    "Year": "2016",
-    "Rated": "N/A",
-    "Released": "23 Jan 2016",
-    "Runtime": "105 min",
-    "Genre": "Animation, Action, Fantasy",
-    "Director": "Tomohisa Taguchi",
-    "Writer": "Jun Kumagai",
-    "Actors": "Akira Ishida, Hikaru Midorikawa, Kazuya Nakai, Mamiko Noto",
-    "Plot": "The season changes to winter. Makoto makes a decision in order to greet the spring that is waiting beyond.",
-    "Language": "Japanese",
-    "Country": "Japan",
-    "Awards": "N/A",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTI0NTExMWMtZWY2Mi00NDY1LWIyYTgtYzA4ZGFhMzRiZGY1XkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.8/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "7.8",
-    "imdbVotes": "90",
-    "imdbID": "tt5463052",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
     "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "Year": "2003",
     "Rated": "PG-13",
@@ -450,32 +274,35 @@
     "Response": "True"
   },
   {
-    "Title": "Assassination Classroom",
-    "Year": "2015?2016",
-    "Rated": "TV-14",
-    "Released": "10 Jan 2015",
-    "Runtime": "23 min",
-    "Genre": "Animation, Action, Comedy",
-    "Director": "N/A",
-    "Writer": "N/A",
-    "Actors": "Jun Fukuyama, Mai Fuchigami, Lindsay Seidel, Aya Suzaki",
-    "Plot": "A powerful creature claims that within a year, Earth will be destroyed by him, but he offers mankind a chance by becoming a homeroom teacher where he teaches his students about how to kill him. An assassination classroom begins.",
-    "Language": "Japanese",
-    "Country": "Japan",
-    "Awards": "2 nominations.",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_SX300.jpg",
+    "Title": "Freddy's Return: A Nightmare Reborn",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "13 Nov 2009",
+    "Runtime": "120 min",
+    "Genre": "Horror",
+    "Director": "Jason Korsiak",
+    "Writer": "Wes Craven (based on characters created by), Jason Korsiak",
+    "Actors": "Ronin Booker, Zakary Booker, David Buczynski, Rodney Covington",
+    "Plot": "As a child, Kevin was kidnapped by Freddy Krueger before Freddy was killed by a mob of angry parents. Although he was rescued by the detective that arrested Krueger, he was left scarred ...",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "http://ia.media-imdb.com/images/M/MV5BMWRmYTc0NDYtYTZkYS00YzBhLTkyMmUtZjg3MTcwMjUxZTljXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.0/10"
+        "Value": "5.9/10"
       }
     ],
     "Metascore": "N/A",
-    "imdbRating": "8.0",
-    "imdbVotes": "2,368",
-    "imdbID": "tt3837246",
-    "Type": "series",
-    "totalSeasons": "2",
+    "imdbRating": "5.9",
+    "imdbVotes": "10",
+    "imdbID": "tt4479976",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
     "Response": "True"
   }
 ]
