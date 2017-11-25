@@ -3,11 +3,11 @@ require('dotenv').config();
 const axios = require('axios');
 const async = require('async');
 const moment = require('moment-timezone');
-moment.tz.setDefault("UTC");
+moment.tz.setDefault("EET");
 
 // Axios
 const $http = axios.create({
-  baseURL: `http://localhost:${process.env.PORT}/offline_api`,
+    baseURL: 'http://www.omdbapi.com/',
 });
 
 function generateSessions(id) {
@@ -54,7 +54,7 @@ module.exports = {
         ids,
         function (id, callback) {
           if (!data.find(item => item.id === id)) {
-            $http.get(`?i=${id}`)
+              $http.get(`?apikey=d068c376&i=${id}`)
               .then(
                 function (response) {
                   if (!response.data.Error) {
@@ -64,7 +64,7 @@ module.exports = {
                       sessions: generateSessions(id)
                     });
                   } else {
-                    console.log(response.data.Error);
+                      console.log(response.data.Error);
                   }
                   callback();
                 },

@@ -1,5 +1,6 @@
 ﻿<template>
     <div id="movie-filter">
+        <h2>Filter criteria</h2>
         <h3>By time of day</h3>
         <div class="filter-group">
             <check-filter v-for="time in times" category="time" v-bind:title="time"></check-filter>

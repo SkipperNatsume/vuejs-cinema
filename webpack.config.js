@@ -19,7 +19,7 @@ module.exports = {
         use: [{
           loader: 'babel-loader',
           options: {
-            "presets": [ [ "env" ] ],
+            "presets": [ [ "es2015" ] ],
             "plugins": [ "transform-es2015-destructuring", "transform-object-rest-spread", "transform-runtime" ]
           }
         }],
@@ -38,8 +38,7 @@ module.exports = {
             // the "scss" and "sass" values for the lang attribute to the right configs here.
             // other preprocessors should work out of the box, no loader config like this nessessary.
             'scss': 'vue-style-loader!css-loader!sass-loader',
-            'sass': 'vue-style-loader!css-loader!sass-loader?indentedSyntax',
-            'js': 'babel-loader?presets[]=env'
+            'sass': 'vue-style-loader!css-loader!sass-loader?indentedSyntax'
           }
         }
       }
